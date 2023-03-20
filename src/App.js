@@ -1,4 +1,4 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
@@ -14,6 +14,8 @@ function App() {
       installed react router dom
       <br></br>
       installed react-redux
+      <br></br>
+      user ranjeet has been added.
     </>
   );
 }
