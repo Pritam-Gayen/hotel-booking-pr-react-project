@@ -10,6 +10,8 @@ function App() {
       installed react icons
       <br></br>
       installed react router dom
+      <br></br>
+      installed react-redux
     </>
   );
 }
