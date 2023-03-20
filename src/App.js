@@ -8,6 +8,8 @@ function App() {
       installed mui
       <br></br>
       installed react icons
+      <br></br>
+      installed react router dom
     </>
   );
 }
