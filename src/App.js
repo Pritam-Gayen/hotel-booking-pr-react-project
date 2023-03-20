@@ -18,6 +18,7 @@ function App() {
       user ranjeet has been added.
       <br></br>
       component-1
+      {/* comment by ranjeet */}
     </>
   );
 }
