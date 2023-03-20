@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <>
-      hotel booking app
+      hotel booking app by pritam and ranjeet
     </>
   );
 }
