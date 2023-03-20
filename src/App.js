@@ -5,6 +5,8 @@ function App() {
     <>
       hotel booking app by pritam and ranjeet
       <br></br>
+      hotel-booking-pr-react-project(custom site name added)
+      <br></br>
       installed mui
       <br></br>
       installed react icons
