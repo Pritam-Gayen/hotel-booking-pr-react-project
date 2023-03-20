@@ -16,6 +16,8 @@ function App() {
       installed react-redux
       <br></br>
       user ranjeet has been added.
+      <br></br>
+      component-1
     </>
   );
 }
