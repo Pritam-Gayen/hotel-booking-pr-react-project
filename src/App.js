@@ -1,6 +1,6 @@
 import "./App.css";
-// import 'bootstrap/dist/css/bootstrap.min.css';
-// import TopBar from "./Components/Header/TopBar";
+import TopBar from "./Components/Header/TopBar";
+
 
 function App() {
   return (
@@ -25,6 +25,7 @@ function App() {
       <br></br>
       Mui uninstalled
       <br></br>
+      <TopBar/>
     </>
   );
 }
