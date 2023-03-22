@@ -21,7 +21,8 @@ function App() {
       <br></br>
       mui-icons installed 
       <br></br>
-      bootstrap installed*/}
+      bootstrap installed
+      Mui uninstalled*/}
       <TopBar/>
     </>
   );
