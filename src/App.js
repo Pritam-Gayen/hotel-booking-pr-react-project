@@ -1,5 +1,5 @@
 import "./App.css";
-import TopBar from "./Components/Header/TopBar";
+// import TopBar from "./Components/Header/TopBar";
 
 
 function App() {
@@ -25,7 +25,7 @@ function App() {
       <br></br>
       Mui uninstalled
       <br></br>
-      <TopBar/>
+      {/* <TopBar/> */}
     </>
   );
 }
