@@ -24,7 +24,7 @@ function App() {
       bootstrap installed
       <br></br>
       Mui uninstalled
-      
+      <br></br>
     </>
   );
 }
