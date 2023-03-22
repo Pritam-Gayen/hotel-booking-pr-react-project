@@ -1,9 +1,11 @@
 import "./App.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import TopBar from "./Components/Header/TopBar";
 
 function App() {
   return (
     <>
-      hotel booking app by pritam and ranjeet
+      {/* hotel booking app by pritam and ranjeet
       <br></br>
       hotel-booking-pr-react-project(custom site name added)
       <br></br>
@@ -17,7 +19,10 @@ function App() {
       <br></br>
       user ranjeet has been added.
       <br></br>
-      component-1
+      mui-icons installed 
+      <br></br>
+      bootstrap installed*/}
+      <TopBar/>
     </>
   );
 }
