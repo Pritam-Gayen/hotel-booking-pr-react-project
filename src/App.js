@@ -5,7 +5,7 @@ import TopBar from "./Components/Header/TopBar";
 function App() {
   return (
     <>
-      hotel booking app by pritam and ranjeet
+      {/* hotel booking app by pritam and ranjeet
       <br></br>
       hotel-booking-pr-react-project(custom site name added)
       <br></br>
@@ -24,7 +24,7 @@ function App() {
       bootstrap installed
       <br></br>
       Mui uninstalled
-      <br></br>
+      <br></br> */}
       <TopBar/>
     </>
   );
