@@ -14,10 +14,10 @@ const TopBar = () => {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
                     <Nav >
-                        <a className='nav-link' href='#'>Search destination</a>
-                        <a className='nav-link' href='#'>Hotels</a>
-                        <a className='nav-link' href='#'>Flights</a>
-                        <a className='nav-link' href='#' >User</a>
+                        <a className='nav-link' href='https://www.google.com/'>Search destination</a>
+                        <a className='nav-link' href='https://www.google.com/'>Hotels</a>
+                        <a className='nav-link' href='https://www.google.com/'>Flights</a>
+                        <a className='nav-link' href='https://www.google.com/' >User</a>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
